@@ -12,6 +12,7 @@ const UserForm = (props) => {
     const createUser = (input) => {
         input.preventDefault();
         const newInfo = {firstName, lastName, email, password, confirmPassword};
+        console.log(newInfo)
     };
 
     return (
