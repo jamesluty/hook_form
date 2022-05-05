@@ -1,0 +1,30 @@
+.center {
+    margin-top: 40px;
+}
+
+.textAlign {
+    text-align: center;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 30%;
+}
+
+.inputs {
+    margin-top: 10px;
+    display: flex;
+}
+
+.inputs label {
+    flex: 1;
+}
+
+.inputs input {
+    flex: 2;
+}
+
+.middle {
+    margin: 0px 30%;
+}
